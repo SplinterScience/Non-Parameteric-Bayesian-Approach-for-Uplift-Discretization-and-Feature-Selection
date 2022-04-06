@@ -23,28 +23,24 @@ Python 3.7
 ==========================================================================================
 Pattern: Ascending
 ![image](https://user-images.githubusercontent.com/75427835/162019028-562a0624-7478-46f8-a7d1-3ca704c9b3a3.png)
-
 ![image](https://user-images.githubusercontent.com/75427835/162020198-d80a21fe-9f2b-42d6-a0af-9434fcf1deb0.png)
 
 
 ==========================================================================================
 
 Inverse X
-![image](https://user-images.githubusercontent.com/75427835/162018136-9bbe826a-8483-4c64-aad3-7baee7f1d80c.png)
-![image](https://user-images.githubusercontent.com/75427835/162020260-6f2aba1d-21fc-43bf-b590-e63b4a43d25d.png)
+![image](https://user-images.githubusercontent.com/75427835/162020414-1130e885-829f-4316-93c1-48c0613babab.png)
 
 ==========================================================================================
 Positive Negative UNBALANCED
 ![image](https://user-images.githubusercontent.com/75427835/162019221-8bbb4d59-dabc-42c0-ad9c-2699188c8475.png)
-
-![image](https://user-images.githubusercontent.com/75427835/162018305-cc9ecb5e-1db0-4cf7-82a5-3811ca9b1c9a.png)
+![image](https://user-images.githubusercontent.com/75427835/162020546-ed029145-a4a0-4f64-83ab-f753f5614cd3.png)
 
 ==========================================================================================
 
 Positive Zero UNBALANCED
 ![image](https://user-images.githubusercontent.com/75427835/162019167-3e19591f-d93f-4051-9a5d-b83a1679280e.png)
-
-![image](https://user-images.githubusercontent.com/75427835/162018424-11544cba-6eb6-464c-b47b-a150429e38ce.png)
+![image](https://user-images.githubusercontent.com/75427835/162020509-070b04be-f473-4833-81b2-51585237a311.png)
 
 
 
