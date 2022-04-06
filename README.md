@@ -17,10 +17,8 @@ The code consists of:
 Python 3.7
 
 ### Supplementary material
-<p float="left">
-  <img src=![image](https://user-images.githubusercontent.com/75427835/162019101-ebcebd91-907a-43a7-ad2a-12267836cc24.png) />
-  <img src=![image](https://user-images.githubusercontent.com/75427835/162017588-fbceb4cf-ad5d-4e57-adcc-47b26ca2d4b3.png) /> 
-  </p>
+![image](https://user-images.githubusercontent.com/75427835/162019101-ebcebd91-907a-43a7-ad2a-12267836cc24.png) 
+![image](https://user-images.githubusercontent.com/75427835/162017588-fbceb4cf-ad5d-4e57-adcc-47b26ca2d4b3.png) 
 
 Pattern: Descending
 
