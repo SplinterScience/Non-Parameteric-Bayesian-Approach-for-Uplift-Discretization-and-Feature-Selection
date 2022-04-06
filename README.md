@@ -18,27 +18,20 @@ Python 3.7
 
 ### Supplementary material
 ![image](https://user-images.githubusercontent.com/75427835/162019101-ebcebd91-907a-43a7-ad2a-12267836cc24.png)
-
-![image](https://user-images.githubusercontent.com/75427835/162019994-502c805b-a3d0-4be3-8180-127f127a5a9e.png)
-
-Pattern: Descending
-
-
-Result:
-
-
+![image](https://user-images.githubusercontent.com/75427835/162020092-4f0471c4-9aee-4865-ad92-265a59a6896c.png)
 
 ==========================================================================================
 Pattern: Ascending
 ![image](https://user-images.githubusercontent.com/75427835/162019028-562a0624-7478-46f8-a7d1-3ca704c9b3a3.png)
 
-![image](https://user-images.githubusercontent.com/75427835/162018046-cfaedbc3-a105-454d-84ff-04730397e38c.png)
+![image](https://user-images.githubusercontent.com/75427835/162020198-d80a21fe-9f2b-42d6-a0af-9434fcf1deb0.png)
 
 
 ==========================================================================================
 
 Inverse X
 ![image](https://user-images.githubusercontent.com/75427835/162018136-9bbe826a-8483-4c64-aad3-7baee7f1d80c.png)
+![image](https://user-images.githubusercontent.com/75427835/162020260-6f2aba1d-21fc-43bf-b590-e63b4a43d25d.png)
 
 ==========================================================================================
 Positive Negative UNBALANCED
