@@ -17,3 +17,6 @@ The code consists of:
 Python 3.7
 
 
+![image](https://user-images.githubusercontent.com/75427835/162017588-fbceb4cf-ad5d-4e57-adcc-47b26ca2d4b3.png)
+
+
