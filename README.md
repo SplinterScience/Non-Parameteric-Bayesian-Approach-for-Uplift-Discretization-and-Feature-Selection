@@ -19,7 +19,7 @@ Python 3.7
 ### Supplementary material
 ![image](https://user-images.githubusercontent.com/75427835/162019101-ebcebd91-907a-43a7-ad2a-12267836cc24.png)
 
-![image](https://user-images.githubusercontent.com/75427835/162017588-fbceb4cf-ad5d-4e57-adcc-47b26ca2d4b3.png) 
+![image](https://user-images.githubusercontent.com/75427835/162019994-502c805b-a3d0-4be3-8180-127f127a5a9e.png)
 
 Pattern: Descending
 
