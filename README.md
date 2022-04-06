@@ -25,7 +25,7 @@ Python 3.7
 
 
 ==========================================================================================
-![image](https://user-images.githubusercontent.com/75427835/162023512-36897bc4-5b06-4450-81f9-574f2f93e130.png)![image](https://user-images.githubusercontent.com/75427835/162020414-1130e885-829f-4316-93c1-48c0613babab.png)
+![image](https://user-images.githubusercontent.com/75427835/162023603-1abbe527-bfaf-4d7e-942b-bd15d52e6ac6.png)![image](https://user-images.githubusercontent.com/75427835/162020414-1130e885-829f-4316-93c1-48c0613babab.png)
 
 ==========================================================================================
 Positive Negative UNBALANCED
